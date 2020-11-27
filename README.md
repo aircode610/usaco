@@ -1,2 +1,2 @@
 # usaco
-This repository contains all of the project euler problems which I've solved ;)
+This repository contains all of the usaco problems which I've solved ;)
